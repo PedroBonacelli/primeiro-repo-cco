@@ -1,7 +1,7 @@
 A:
-Abacaxi
+5xAbacaxi
 
 M:
-Melão
-Melancia
-Maça
+1xMelão
+1xMelancia
+2x Maça
