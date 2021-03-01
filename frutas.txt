@@ -1,6 +1,5 @@
 A:
 Abacaxi
-Amora
 
 M:
 Melão
